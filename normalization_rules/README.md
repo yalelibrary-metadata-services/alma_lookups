@@ -3,11 +3,11 @@
 This folder contains XSLT normalization rules for Alma.  
 
 ## Table of Contents
-- [extract-dates-from-100a.xsl](#extract-dates-from-100axsl)  
+- [extract-dates-from-100a.xml](#extract-dates-from-100axml)  
   Moves date from 100 $a into a new 100 $d when $9 = no_linkage.  
 - *(new rule)*
 ---
-## extract-dates-from-100a.xsl
+## extract-dates-from-100a.xml
 ### Overview
 Moves date ranges from **100 $a** into a new **100 $d**
 ### Conditions
@@ -41,3 +41,30 @@ This rule may later be expanded to cover additional cataloging practices, such a
 - Words like *approximately* or *century*
 - Three-digit dates for early resources
 - etc
+
+---
+
+## replace-gmgpc-with-lctgm.xml
+
+### Overview
+Normalizes subject/thesaurus source codes by replacing **`$2 gmgpc`** with **`$2 lctgm`** in **650/655/690** when **indicator 2 = 7**. Also fixes cases where the `$2` is incorrectly concatenated into another subfield’s text (e.g., `$a ...$2gmgpc`), extracting it and emitting a correct `$2 lctgm`.
+
+### Scope & Preconditions
+- Fields: `650`, `655`
+- Condition: `ind2 = '7'`
+- Targets:
+  - Proper `$2 gmgpc` subfields → change to `$2 lctgm`
+  - Malformed text containing `$2gmgpc` (e.g., in `$a`) → remove the stray token from the text and append a proper `$2 lctgm`
+
+### Behavior
+- If a matching `$2` exists with **exact value** `gmgpc`, its content becomes `lctgm`.
+- If any subfield text **contains** a concatenated `$2gmgpc`, that token is **removed from the text**, and a new `<subfield code="2">lctgm</subfield>` is **appended** to the same datafield.
+- Leaves other `$2` values unchanged.
+- Runs only when `ind2='7'` to avoid touching fields that aren’t source-coded.
+
+### Testing Dataset
+- Filtered set prepared via **Alma Analytics** and **Set Filter** to include records where `gmgpc` appears in `650` and/or `655` (and applicable `690`) with `ind2=7`.
+- Includes both well-formed `$2 gmgpc` and concatenated patterns like `$a ...$2gmgpc`.
+
+### Files
+- `replace-gmgpc-with-lctgm.xsl` — transformation for 650/655/690 with `ind2=7`
