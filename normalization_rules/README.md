@@ -3,11 +3,11 @@
 This folder contains XSLT normalization rules for Alma.  
 
 ## Table of Contents
-- [extract-dates-from-100a.xml](#extract-dates-from-100axml)  
+- [extract-dates-from-100a.xsl](#extract-dates-from-100axsl)  
   Moves date from 100 $a into a new 100 $d when $9 = no_linkage.  
-- *(new rule)*
+- [replace-gmgpc-with-lctgm.xsl](#replace-gmgpc-with-lctgmxsl)
 ---
-## extract-dates-from-100a.xml
+## extract-dates-from-100a.xsl
 ### Overview
 Moves date ranges from **100 $a** into a new **100 $d**
 ### Conditions
@@ -44,7 +44,7 @@ This rule may later be expanded to cover additional cataloging practices, such a
 
 ---
 
-## replace-gmgpc-with-lctgm.xml
+## replace-gmgpc-with-lctgm.xsl
 
 ### Overview
 Normalizes subject/thesaurus source codes by replacing **`$2 gmgpc`** with **`$2 lctgm`** in **650/655/690** when **indicator 2 = 7**. Also fixes cases where the `$2` is incorrectly concatenated into another subfield’s text (e.g., `$a ...$2gmgpc`), extracting it and emitting a correct `$2 lctgm`.
