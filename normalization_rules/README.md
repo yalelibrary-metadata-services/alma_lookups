@@ -3,11 +3,11 @@
 This folder contains XSLT normalization rules for Alma.  
 
 ## Table of Contents
-- [extract-dates-from-100a.xsl](#extract-dates-from-100axsl)  
+- [add-$d-in-100-with-conditions.xsl](#add-$d-in-100-with-conditionsxsl)  
   Moves date from 100 $a into a new 100 $d when $9 = no_linkage.  
 - [replace-gmgpc-with-lctgm.xsl](#replace-gmgpc-with-lctgmxsl)
 ---
-## extract-dates-from-100a.xsl
+## add-$d-in-100-with-conditions.xsl
 ### Overview
 Moves date ranges from **100 $a** into a new **100 $d**
 ### Conditions
