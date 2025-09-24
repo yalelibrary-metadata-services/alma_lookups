@@ -12,6 +12,19 @@ This folder contains XSLT normalization rules for Alma.
 ## add-$e-in-100.xsl
 ### Overview 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## add-$d-in-100-with-conditions.xsl
 ### Overview
 Moves date ranges from **100 $a** into a new **100 $d**
