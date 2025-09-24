@@ -3,10 +3,15 @@
 This folder contains XSLT normalization rules for Alma.  
 
 ## Table of Contents
-- [add-$d-in-100-with-conditions.xsl](#add-$d-in-100-with-conditionsxsl)  
-  Moves date from 100 $a into a new 100 $d when $9 = no_linkage.  
-- [replace-gmgpc-with-lctgm.xsl](#replace-gmgpc-with-lctgmxsl)
+|Rule Name|Brief Summary|Update Log|
+|---|---|---|
+|[add-$e-in-100.xsl](#add-$e-in-100xsl)|Matches relationship designator against lookup file, extract each term as individual $e|Work in Progress|
+|[add-$d-in-100-with-conditions.xsl](#add-$d-in-100-with-conditionsxsl)|Moves date from 100 $a into a new 100 $d when $9 = no_linkage.|*2025/09/24: Allows embedded dates*|
+|[replace-gmgpc-with-lctgm.xsl](#replace-gmgpc-with-lctgmxsl)|Replaces gmgpc with lctgm|  |
 ---
+## add-$e-in-100.xsl
+### Overview 
+
 ## add-$d-in-100-with-conditions.xsl
 ### Overview
 Moves date ranges from **100 $a** into a new **100 $d**
