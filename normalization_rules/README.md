@@ -14,7 +14,7 @@ Moves date ranges from **100 $a** into a new **100 $d**
 - Field: `100`
 - Requires: `100 $9 = "no_linkage"`
 - Must **not** have an existing `100 $d`
-- `100 $a` ends strictly with `YYYY-` **or** `YYYY-YYYY`, optionally followed by `.` or `,` and whitespace
+- `100 $a` ends strictly with `YYYY-` **or** `YYYY-YYYY`, optionally followed by `.` or `,` and whitespace, either at the end of $a or embedded
 - Ignores any number of `$e` relator terms when checking the next significant subfield
 
 ### Testing Dataset
