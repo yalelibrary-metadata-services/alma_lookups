@@ -1,4 +1,0 @@
-*.mrc filter=lfs diff=lfs merge=lfs -text
-*.marcxml filter=lfs diff=lfs merge=lfs -text
-*.marc filter=lfs diff=lfs merge=lfs -text
-*.xml filter=lfs diff=lfs merge=lfs -text
