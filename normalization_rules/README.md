@@ -28,7 +28,8 @@ Checks whether the `245` field of the current record exactly matches a `245` fie
 ### Output
 - If an exact match exists in the called dataset, a new `$9` with value `TRUE` is appended in `245`.
 - External files within GitHub’s size upload limit can be successfully called. 
-- Files above 25 MB but under 100 MB cannot be uploaded via the GitHub web interface, but can be pushed through a local Git client/terminal. 
+- Files above 25 MB but under 100 MB cannot be uploaded via the GitHub web interface, but can be pushed through a local Git client/terminal.
+- Git Large File Storage can upload larger files but cannot perform lookups. 
 
 ### Future Considerations
 - Test whether rules can follow index paths and locate the correct files based on conditions. 
