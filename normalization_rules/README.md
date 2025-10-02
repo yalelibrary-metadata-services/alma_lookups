@@ -5,6 +5,7 @@ This folder contains XSLT normalization rules for Alma.
 ## Table of Contents
 | Rule Name | Brief Summary | Update Log |
 |---|---|---|
+| [index-test.xsl](#index-testxsl) | Checks if 100, 600, 700 match in multiple external datasets. This rule is for testing calling multiple documents in Alma only| *2025/10/02: Work in Progress* |
 | [file-size-test.xsl](#file-size-testxsl) | Matches 245 in one record against external dataset, if an exact match is found, returns TRUE in $9. This rule is for testing calling external documents in Alma only | *2025/09/29: Work in Progress*|
 | [add-$e-in-100.xsl](#add-e-in-100xsl) | Matches relationship designator against lookup file, extract each term as individual $e | *2025/09/24: Work in Progress*|
 | [add-$d-in-100-with-conditions.xsl](#add-d-in-100-with-conditionsxsl) | Moves date from 100 $a into a new 100 $d when $9 = no_linkage. | *2025/09/24: Allows embedded dates* |
