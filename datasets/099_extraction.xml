@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <datafield tag="099" ind1=" " ind2=" ">
+      <subfield code="a">007697-1</subfield>
+   </datafield>
+   <datafield tag="099" ind1=" " ind2=" ">
+      <subfield code="a">007696-1</subfield>
+   </datafield>
+   <datafield tag="099" ind1=" " ind2=" ">
+      <subfield code="a">007695-1</subfield>
+   </datafield>
+</collection>
