@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+  <version>1.2</version>
+  <numberOfRecords>1</numberOfRecords>
+  <records>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01106ngm a22003255a 4500</leader>
+          <controlfield tag="001">991010834159808651</controlfield>
+          <controlfield tag="008">250812s1962    xx |          000 m|und d</controlfield>
+          <datafield ind1=" " ind2=" " tag="099">
+            <subfield code="a">001236-2</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="0" tag="245">
+            <subfield code="a">Long Day's Journey into Night</subfield>
+            <subfield code="h">[motion picture].</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="3" tag="264">
+            <subfield code="c">1962.</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">8 reels ;</subfield>
+            <subfield code="c">35mm.</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="500">
+            <subfield code="a">BW Composite Print.</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Usage restricted.</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Lumet, Sidney</subfield>
+            <subfield code="9">no_linkage</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+            <subfield code="p">1</subfield>
+            <subfield code="x">39002143394964</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+            <subfield code="p">2</subfield>
+            <subfield code="x">39002143394972</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+            <subfield code="p">3</subfield>
+            <subfield code="x">39002143394980</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+            <subfield code="p">4</subfield>
+            <subfield code="x">39002143394998</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+            <subfield code="p">5</subfield>
+            <subfield code="x">39002143395003</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+            <subfield code="p">6</subfield>
+            <subfield code="x">39002143395011</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+            <subfield code="p">7</subfield>
+            <subfield code="x">39002143395029</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+            <subfield code="p">8</subfield>
+            <subfield code="x">39002143395037</subfield>
+          </datafield>
+          <datafield ind1="8" ind2="1" tag="852">
+            <subfield code="b">lsffsfilm</subfield>
+            <subfield code="h">001236-2</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVA">
+            <subfield code="0">991010834159808651</subfield>
+            <subfield code="8">221198859580008651</subfield>
+            <subfield code="a">01YALE_INST</subfield>
+            <subfield code="b">lsf</subfield>
+            <subfield code="c">Remote (LSF) - Film Archive - Film</subfield>
+            <subfield code="e">available</subfield>
+            <subfield code="f">16</subfield>
+            <subfield code="g">0</subfield>
+            <subfield code="v">from:1 until:8</subfield>
+            <subfield code="j">lsffsfilm</subfield>
+            <subfield code="k">8</subfield>
+            <subfield code="p">1</subfield>
+            <subfield code="q">Library Shelving Facility</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>991010834159808651</recordIdentifier>
+      <recordPosition>1</recordPosition>
+    </record>
+  </records>
+  <extraResponseData xmlns:xb="http://www.exlibris.com/repository/search/xmlbeans/">
+    <xb:exact>true</xb:exact>
+    <xb:responseDate>2025-10-16T12:33:06-0400</xb:responseDate>
+  </extraResponseData>
+</searchRetrieveResponse>
