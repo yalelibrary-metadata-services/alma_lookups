@@ -5,13 +5,17 @@ This folder contains XSLT normalization rules for Alma.
 ## Table of Contents
 | Rule Name | Brief Summary | Update Log |
 |---|---|---|
+| [yale-film-archive-rules](#yale-film-archive-rules) | See detailed explaination of rules and workflow in dedicated folder | *2025/10/20: Work in Progress* |
 | [index-test.xsl](#index-testxsl) | Checks if 100, 600, 700 match in multiple external datasets. This rule is for testing calling multiple documents in Alma only| *2025/10/02: Work in Progress* |
-| [file-size-test.xsl](#file-size-testxsl) | Matches 245 in one record against external dataset, if an exact match is found, returns TRUE in $9. This rule is for testing calling external documents in Alma only | *2025/09/29: Work in Progress*|
-| [add-$e-in-100.xsl](#add-e-in-100xsl) | Matches relationship designator against lookup file, extract each term as individual $e | *2025/09/24: Work in Progress*|
-| [add-$d-in-100-with-conditions.xsl](#add-d-in-100-with-conditionsxsl) | Moves date from 100 $a into a new 100 $d when $9 = no_linkage. | *2025/09/24: Allows embedded dates* |
+| [file-size-test.xsl](#file-size-testxsl) | Matches 245 in one record against external dataset, if an exact match is found, returns TRUE in $9. This rule is for testing calling external documents in Alma only | *2025/09/29: Work in Progress* |
+| [add-\$e-in-100.xsl](#add-e-in-100xsl) | Matches relationship designator against lookup file, extract each term as individual `$e` | *2025/09/24: Work in Progress* |
+| [add-\$d-in-100-with-conditions.xsl](#add-d-in-100-with-conditionsxsl) | Moves date from 100 `$a` into a new 100 `$d` when `$9` = no_linkage. | *2025/09/24: Allows embedded dates* |
 | [replace-gmgpc-with-lctgm.xsl](#replace-gmgpc-with-lctgmxsl) | Replaces gmgpc with lctgm |  |
 
 ---
+## yale-film-archive-rules
+### Overview
+This folder contains rules for preprocessing and enhancing Yale Film Archive records, along with workflow documentation.
 ## file-size-test.xsl
 ### Overview 
 Checks whether the `245` field of the current record exactly matches a `245` field in an external MARC dataset. If an exact match is found, it appends `$9` to `245` with value TRUE. This rule is used to test the file size limitation of calling external documents in Alma only.
