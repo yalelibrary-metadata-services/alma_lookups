@@ -5,7 +5,7 @@ This folder contains XSLT normalization rules related to Yale Film Archive for A
 ## Table of Contents
 | Rule Name | Brief Summary | Update Log |
 |---|---|---|
-| [852-random.xsl](#852-randomxsl) | Adds a randomly generated four numerals + four letter id to each holdings record in 852 `$h` | *2025/10/20: Work in Progress* |
+| [852-random.xsl](#852-randomxsl) | Adds a randomly generated number + four letter id to each holdings record in 852 `$h` | *2025/10/20: Work in Progress* |
 | [099-holdings.xsl](#099-holdingsxsl) | Matches generated ID in lookup dataset, replaces generated ID in 852 `$h` in holdings with the correct call number from 099 `$a` in bib, adds blank 866 with reel 1 | *2025/10/20: Work in Progress: What happens when unqique ID is not `$d` in query?* |
 | [866-reels.xsl](#866-reelsxsl) | Matches call number against lookup dataset, checks 300 `$a`, adds -reel # in holdings 866 if there is more than 1 reel | *2025/10/22: Testing whether it can be added directly in [099-holdings.xsl](#099-holdingsxsl)*|
 

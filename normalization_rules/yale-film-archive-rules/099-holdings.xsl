@@ -7,7 +7,7 @@
   
   <!-- Load external lookup file -->
   <xsl:variable name="lookup" as="document-node()?" 
-    select="document('https://raw.githubusercontent.com/yalelibrary-metadata-services/alma_rules_testing/refs/heads/main/datasets/nine_records.xml')"/>
+    select="document('https://raw.githubusercontent.com/yalelibrary-metadata-services/alma_rules_testing/refs/heads/main/datasets/holdings_record.xml')"/>
   
   <xsl:template match="datafield[@tag='852']">
     <xsl:copy>
