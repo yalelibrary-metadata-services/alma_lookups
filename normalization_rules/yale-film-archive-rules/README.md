@@ -7,7 +7,7 @@ This folder contains XSLT normalization rules related to Yale Film Archive for A
 |---|---|---|
 | [852-random.xsl](#852-randomxsl) | Adds a randomly generated number + four letter id to each holdings record in 852 `$h` | *2025/10/20: Work in Progress* |
 | [099-holdings.xsl](#099-holdingsxsl) | Matches generated ID in lookup dataset, replaces generated ID in 852 `$h` in holdings with the correct call number from 099 `$a` in bib, adds blank 866 with reel 1 | *2025/10/20: Work in Progress: What happens when unqique ID is not `$d` in query?* |
-| [866-reels.xsl](#866-reelsxsl) | Matches call number against lookup dataset, checks 300 `$a`, adds -reel # in holdings 866 if there is more than 1 reel | *2025/10/22: Testing whether it can be added directly in [099-holdings.xsl](#099-holdingsxsl)*|
+| [866-reels.xsl](#866-reelsxsl) | Matches call number against lookup dataset, checks 300 `$a`, adds -reel # in holdings 866 if there is more than 1 reel | *2025/10/21: Can be added in a process with other rules* |
 
 ---
 ## Yale Film Archive Records Workflow
@@ -19,8 +19,7 @@ This folder contains XSLT normalization rules related to Yale Film Archive for A
 | 3 | Alma | Run "Change Holdings Information" job in Admin → Select the set from Step 2 → Check "Correct the data using norm processes" → Select [852-random.xsl](#852-randomxsl) | A set of holdings records with a unique generated ID in 852 `$h` |
 | 4 | SRU | Run a [SRU query](https://yale-psb.alma.exlibrisgroup.com/view/sru/01YALE_INST?version=1.2&operation=searchRetrieve&recordSchema=marcxml&query=alma.mms_sip_id=263359): First replace the `mms_sip_id` at the end of the link with your set's mms_sip_id → Confirm the generated ID is present in tag="AVA" (Note: SRU query's holding record subfield code does NOT correspond to the subfield code in Alma. Do not panic if the subfield code is `$d` and not `$h`) | A query of a set of records (bib and holdings) with unique generated ID in `tag="AVA"` |
 | 5 | SRU, GitHub | Download the query as XML and then upload it to GitHub repo. **Option 1:** Copy and paste it into an XML file. **Option 2:** Run this in terminal (Mac): `curl "query link" -o $HOME/Desktop/holding_record.xml` | A set of records in XML that allows us to perform lookup via normalization rule |
-| 6 | Alma | Repeat Step 3 and run [099-holdings.xsl](#099-holdingsxsl) | A set of holdings records with the correct call number in 852 `$h` and generic 866 with reel 1 in `$a` |
-| 7 | Alma | Repeat Step 3 and run [866-reels.xsl](#866-reelsxsl) | A set of holdings records with -reel # in holdings 866 `$a` if there is more than 1 reel|
+| 6 | Alma | Repeat Step 3 and run the process `MSU-YFA-complete`. The process first runs[099-holdings.xsl](#099-holdingsxsl), then runs  [866-reels.xsl](#866-reelsxsl) , and lastly runs an existing DROOL rule that adds indicator 2 in 852 based on existing 866. It is also currently set to run a REWRITE 001 task, but the correctness of the 001 data is being determined. | A set of holdings records with complete information. |
 
 ---
 ## Possible Questions
