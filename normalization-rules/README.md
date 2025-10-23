@@ -1,11 +1,12 @@
 # Normalization Rules
 
-This folder contains XSLT normalization rules for Alma.  
+This folder contains XSLT normalization rules and other relevant documentation for Alma.  
 
 ## Table of Contents
 | Rule Name | Brief Summary | Update Log |
 |---|---|---|
-| [yale-film-archive-rules](#yale-film-archive-rules) | See detailed explaination of rules and workflow in dedicated folder | *2025/10/20: Work in Progress* |
+| [archived](#archived) | Stores archived rules that are now obsolete| |
+| [yale-film-archive](#yale-film-archive) | See detailed explaination of rules and workflow in dedicated folder | *2025/10/20: Work in Progress* |
 | [index-test.xsl](#index-testxsl) | Checks if 100, 600, 700 match in multiple external datasets. This rule is for testing calling multiple documents in Alma only| *2025/10/02: Work in Progress* |
 | [file-size-test.xsl](#file-size-testxsl) | Matches 245 in one record against external dataset, if an exact match is found, returns TRUE in $9. This rule is for testing calling external documents in Alma only | *2025/09/29: Work in Progress* |
 | [add-\$e-in-100.xsl](#add-e-in-100xsl) | Matches relationship designator against lookup file, extract each term as individual `$e` | *2025/09/24: Work in Progress* |
@@ -13,7 +14,10 @@ This folder contains XSLT normalization rules for Alma.
 | [replace-gmgpc-with-lctgm.xsl](#replace-gmgpc-with-lctgmxsl) | Replaces gmgpc with lctgm |  |
 
 ---
-## yale-film-archive-rules
+## archived
+### Overview
+This folder contains deprecated normalization rules that are no longer in active use. These rules are preserved for reference purposes and may still be mentioned in workflow documentation.
+## yale-film-archive
 ### Overview
 This folder contains rules for preprocessing and enhancing Yale Film Archive records, along with workflow documentation.
 ## file-size-test.xsl
