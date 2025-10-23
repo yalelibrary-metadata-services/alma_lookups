@@ -41,6 +41,7 @@ Yes! The script automates the SRU query and file management process. Here are th
 
 #### 1. Query the SRU API
 Use this URL template, replacing `YOUR_MMS_SIP_ID` with your set's MMS SIP ID:
+**For Premium Sandbox environment:**
 ```
 https://yale-psb.alma.exlibrisgroup.com/view/sru/01YALE_INST?version=1.2&operation=searchRetrieve&recordSchema=marcxml&query=alma.mms_sip_id=YOUR_MMS_SIP_ID&maximumRecords=100
 ```
