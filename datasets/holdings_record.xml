@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Total number of records across all SIP queries: 93 -->
 <searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/" xmlns:marc="http://www.loc.gov/MARC21/slim"><version>1.2</version><numberOfRecords>93</numberOfRecords><records><record>
       <recordSchema>marcxml</recordSchema>
       <recordPacking>xml</recordPacking>
@@ -43,7 +44,6 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">007659-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -633,7 +633,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_677674_EFBH</marc:subfield>
+            <marc:subfield code="d">007677-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -692,7 +692,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_779528_XMGV</marc:subfield>
+            <marc:subfield code="d">007679-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -751,7 +751,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_663610_KOIV</marc:subfield>
+            <marc:subfield code="d">007681-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -810,7 +810,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_513919_OCBG</marc:subfield>
+            <marc:subfield code="d">007684-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -869,7 +869,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_566593_CJLC</marc:subfield>
+            <marc:subfield code="d">007686-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -928,7 +928,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_563458_TCUE</marc:subfield>
+            <marc:subfield code="d">007691-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -987,7 +987,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_519384_FFZN</marc:subfield>
+            <marc:subfield code="d">007692-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1046,7 +1046,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_656085_CNJY</marc:subfield>
+            <marc:subfield code="d">007693-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1105,7 +1105,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_598484_ZFRY</marc:subfield>
+            <marc:subfield code="d">007694-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1164,7 +1164,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_770928_CUDF</marc:subfield>
+            <marc:subfield code="d">007695-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1223,7 +1223,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_811150_IVXM</marc:subfield>
+            <marc:subfield code="d">007696-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1282,7 +1282,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_534254_TYMR</marc:subfield>
+            <marc:subfield code="d">007697-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1341,7 +1341,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_752474_RGEW</marc:subfield>
+            <marc:subfield code="d">007701-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1400,7 +1400,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_715388_HJRU</marc:subfield>
+            <marc:subfield code="d">007702-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1459,7 +1459,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_737962_QMOH</marc:subfield>
+            <marc:subfield code="d">007704-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1518,7 +1518,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_823423_DZLN</marc:subfield>
+            <marc:subfield code="d">007705-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1577,7 +1577,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_783469_ZMAE</marc:subfield>
+            <marc:subfield code="d">007709-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1695,7 +1695,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_609055_MGWS</marc:subfield>
+            <marc:subfield code="d">007711-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1754,7 +1754,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_527894_DNHQ</marc:subfield>
+            <marc:subfield code="d">007712-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1813,7 +1813,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_798519_BPWC</marc:subfield>
+            <marc:subfield code="d">007713-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1872,7 +1872,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_710909_HYDL</marc:subfield>
+            <marc:subfield code="d">007714-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1931,7 +1931,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_579762_DRWD</marc:subfield>
+            <marc:subfield code="d">007715-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -1990,7 +1990,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_765553_DRIH</marc:subfield>
+            <marc:subfield code="d">007717-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2049,7 +2049,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_480864_NTJY</marc:subfield>
+            <marc:subfield code="d">007718-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2108,7 +2108,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_517055_DDKY</marc:subfield>
+            <marc:subfield code="d">007719-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2167,7 +2167,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_587734_SMIT</marc:subfield>
+            <marc:subfield code="d">007720-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2226,7 +2226,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_721210_IMQM</marc:subfield>
+            <marc:subfield code="d">007722-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2285,7 +2285,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_730796_ZAKD</marc:subfield>
+            <marc:subfield code="d">007723-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2374,7 +2374,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_660564_KONC</marc:subfield>
+            <marc:subfield code="d">007506-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">6</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2382,7 +2382,7 @@
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-            <marc:subfield code="t">reel 1</marc:subfield>
+            <marc:subfield code="t">reel 1-reel 6</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2463,7 +2463,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_744591_WQDC</marc:subfield>
+            <marc:subfield code="d">007507-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">6</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2471,7 +2471,7 @@
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-            <marc:subfield code="t">reel 1</marc:subfield>
+            <marc:subfield code="t">reel 1-reel 6</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2524,7 +2524,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_802640_HTVU</marc:subfield>
+            <marc:subfield code="d">007716-3</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">2</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2532,7 +2532,7 @@
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-            <marc:subfield code="t">reel 1</marc:subfield>
+            <marc:subfield code="t">reel 1-reel 2</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2579,7 +2579,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_996942_SLJL</marc:subfield>
+            <marc:subfield code="d">007716-2</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2640,7 +2640,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_493853_VNCV</marc:subfield>
+            <marc:subfield code="d">007716-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">2</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2648,7 +2648,7 @@
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-            <marc:subfield code="t">reel 1</marc:subfield>
+            <marc:subfield code="t">reel 1-reel 2</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2699,7 +2699,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_783917_XNZH</marc:subfield>
+            <marc:subfield code="d">007645-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2782,7 +2782,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_810971_KZFO</marc:subfield>
+            <marc:subfield code="d">007654-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">5</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2790,7 +2790,7 @@
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-            <marc:subfield code="t">reel 1</marc:subfield>
+            <marc:subfield code="t">reel 1-reel 5</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2834,7 +2834,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_841966_AHZP</marc:subfield>
+            <marc:subfield code="d">007646-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2886,7 +2886,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_660206_SHFB</marc:subfield>
+            <marc:subfield code="d">007626-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
@@ -2997,7 +2997,7 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="d">TEMP_819481_BSCL</marc:subfield>
+            <marc:subfield code="d">007643-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
