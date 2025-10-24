@@ -44,14 +44,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007659-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -102,14 +103,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007660-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -160,14 +162,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007661-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -218,14 +221,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007662-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -276,14 +280,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007665-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -334,14 +339,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007666-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -392,14 +398,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007671-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -450,14 +457,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007672-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -508,14 +516,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007673-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -566,14 +575,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007674-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -624,14 +634,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007677-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -682,14 +693,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007679-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -740,14 +752,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007681-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -798,14 +811,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007684-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -856,14 +870,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007686-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -914,14 +929,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007691-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -972,14 +988,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007692-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1030,14 +1047,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007693-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1088,14 +1106,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007694-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1146,14 +1165,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007695-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1204,14 +1224,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007696-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1262,14 +1283,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007697-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1320,14 +1342,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007701-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1378,14 +1401,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007702-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1436,14 +1460,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007704-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1494,14 +1519,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007705-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1552,14 +1578,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007709-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1610,14 +1637,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007710-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1668,14 +1696,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007711-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1726,14 +1755,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007712-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1784,14 +1814,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007713-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1842,14 +1873,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007714-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1900,14 +1932,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007715-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -1958,14 +1991,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007717-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2016,14 +2050,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007718-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2074,14 +2109,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007719-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2132,14 +2168,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007720-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2190,14 +2227,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007722-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2248,14 +2286,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007723-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2336,14 +2375,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007506-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">6</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:6</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1-reel 6</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2424,14 +2464,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007507-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">6</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:6</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1-reel 6</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2484,14 +2525,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007716-3</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">2</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:2</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1-reel 2</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2538,14 +2580,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007716-2</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2598,14 +2641,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007716-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">2</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:2</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1-reel 2</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2656,14 +2700,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007645-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2738,14 +2783,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007654-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">5</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:5</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1-reel 5</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2789,14 +2835,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007646-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2840,14 +2887,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007626-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2898,14 +2946,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007698-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -2949,14 +2998,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007643-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -3049,14 +3099,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">001236-2</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">8</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:8</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1-reel 8</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -3107,14 +3158,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007306-3</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -3165,14 +3217,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007306-2</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -3247,14 +3300,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">000744-3</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">5</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:5</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1-reel 5</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -3467,14 +3521,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007703-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">28</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:28</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1-reel 28</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -3525,14 +3580,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007648-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -3580,14 +3636,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007649-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -3631,14 +3688,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007644-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -3725,14 +3783,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">002376-2</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">7</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:7</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1-reel 7</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
@@ -3783,14 +3842,15 @@
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="d">007630-1</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
             <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:1 until:1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
             <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+            <marc:subfield code="t">reel 1</marc:subfield>
           </marc:datafield>
         </marc:record>
       </recordData>
