@@ -35,7 +35,12 @@ def run_command(cmd, description):
         return result.stdout
     except subprocess.CalledProcessError as e:
         print("✗")
-        print(f"Error: {e.stderr}")
+        print(f"Error: Command failed with exit code {e.returncode}")
+        if e.stderr:
+            print(f"Stderr: {e.stderr}")
+        if e.stdout:
+            print(f"Stdout: {e.stdout}")
+        print(f"Command was: {cmd}")
         sys.exit(1)
 
 
@@ -319,20 +324,35 @@ def main():
         # Git add
         run_command("git add holdings_record.xml", "Adding to git")
 
-        # Git commit
-        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        if len(sip_ids) == 1:
-            commit_message = f"Update holdings record with SIP ID: {sip_ids[0]} - {timestamp}"
-        else:
-            commit_message = f"Update holdings record with SIP IDs: {', '.join(sip_ids)} - {timestamp}"
-
-        run_command(
-            f'git commit -m "{commit_message}"',
-            "Committing changes"
+        # Check if there are changes to commit
+        print("Checking for changes...", end=" ", flush=True)
+        result = subprocess.run(
+            "git status --porcelain",
+            shell=True,
+            capture_output=True,
+            text=True
         )
 
-        # Git push
-        run_command("git push", "Pushing to remote")
+        if not result.stdout.strip():
+            print("✓")
+            print("\nNo changes detected - holdings record is identical to existing file.")
+            print("Skipping commit and push.")
+        else:
+            print("✓")
+            # Git commit
+            timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            if len(sip_ids) == 1:
+                commit_message = f"Update holdings record with SIP ID: {sip_ids[0]} - {timestamp}"
+            else:
+                commit_message = f"Update holdings record with SIP IDs: {', '.join(sip_ids)} - {timestamp}"
+
+            run_command(
+                f'git commit -m "{commit_message}"',
+                "Committing changes"
+            )
+
+            # Git push
+            run_command("git push", "Pushing to remote")
 
     # Success message
     if len(sip_ids) == 1:
