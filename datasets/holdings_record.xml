@@ -6,7 +6,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00425ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839259008651</marc:controlfield>
+          <marc:controlfield tag="001">991011257427908651</marc:controlfield>
           <marc:controlfield tag="008">251217s1969    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007247-1</marc:subfield>
@@ -35,8 +35,8 @@
             <marc:subfield code="x">39002141434846</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839259008651</marc:subfield>
-            <marc:subfield code="8">221199289130008651</marc:subfield>
+            <marc:subfield code="0">991011257427908651</marc:subfield>
+            <marc:subfield code="8">221223103020008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -51,7 +51,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839259008651</recordIdentifier>
+      <recordIdentifier>991011257427908651</recordIdentifier>
       <recordPosition>1</recordPosition>
     </record>
     <record>
@@ -60,7 +60,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00403ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839258908651</marc:controlfield>
+          <marc:controlfield tag="001">991011257427808651</marc:controlfield>
           <marc:controlfield tag="008">251217s1982    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007253-1</marc:subfield>
@@ -89,8 +89,8 @@
             <marc:subfield code="x">39002141434887</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839258908651</marc:subfield>
-            <marc:subfield code="8">221199289100008651</marc:subfield>
+            <marc:subfield code="0">991011257427808651</marc:subfield>
+            <marc:subfield code="8">221223102990008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -105,7 +105,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839258908651</recordIdentifier>
+      <recordIdentifier>991011257427808651</recordIdentifier>
       <recordPosition>2</recordPosition>
     </record>
     <record>
@@ -114,7 +114,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00444ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839258808651</marc:controlfield>
+          <marc:controlfield tag="001">991011257427708651</marc:controlfield>
           <marc:controlfield tag="008">251217s1972    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007655-1</marc:subfield>
@@ -147,8 +147,8 @@
             <marc:subfield code="x">39002143395094</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839258808651</marc:subfield>
-            <marc:subfield code="8">221199289070008651</marc:subfield>
+            <marc:subfield code="0">991011257427708651</marc:subfield>
+            <marc:subfield code="8">221223102960008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -163,7 +163,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839258808651</recordIdentifier>
+      <recordIdentifier>991011257427708651</recordIdentifier>
       <recordPosition>3</recordPosition>
     </record>
     <record>
@@ -172,7 +172,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00466ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839258708651</marc:controlfield>
+          <marc:controlfield tag="001">991011257427608651</marc:controlfield>
           <marc:controlfield tag="008">251217s1972    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007657-1</marc:subfield>
@@ -205,8 +205,8 @@
             <marc:subfield code="x">39002143395102</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839258708651</marc:subfield>
-            <marc:subfield code="8">221199289040008651</marc:subfield>
+            <marc:subfield code="0">991011257427608651</marc:subfield>
+            <marc:subfield code="8">221223102930008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -221,7 +221,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839258708651</recordIdentifier>
+      <recordIdentifier>991011257427608651</recordIdentifier>
       <recordPosition>4</recordPosition>
     </record>
     <record>
@@ -230,7 +230,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00441ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839258608651</marc:controlfield>
+          <marc:controlfield tag="001">991011257427508651</marc:controlfield>
           <marc:controlfield tag="008">251217s1970    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007658-1</marc:subfield>
@@ -263,8 +263,8 @@
             <marc:subfield code="x">39002143395110</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839258608651</marc:subfield>
-            <marc:subfield code="8">221199289010008651</marc:subfield>
+            <marc:subfield code="0">991011257427508651</marc:subfield>
+            <marc:subfield code="8">221223102900008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -279,7 +279,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839258608651</recordIdentifier>
+      <recordIdentifier>991011257427508651</recordIdentifier>
       <recordPosition>5</recordPosition>
     </record>
     <record>
@@ -288,7 +288,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00436ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839258508651</marc:controlfield>
+          <marc:controlfield tag="001">991011257427408651</marc:controlfield>
           <marc:controlfield tag="008">251217s1970    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007667-1</marc:subfield>
@@ -321,8 +321,8 @@
             <marc:subfield code="x">39002143395185</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839258508651</marc:subfield>
-            <marc:subfield code="8">221199288980008651</marc:subfield>
+            <marc:subfield code="0">991011257427408651</marc:subfield>
+            <marc:subfield code="8">221223102870008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -337,7 +337,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839258508651</recordIdentifier>
+      <recordIdentifier>991011257427408651</recordIdentifier>
       <recordPosition>6</recordPosition>
     </record>
     <record>
@@ -346,7 +346,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00434ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839258408651</marc:controlfield>
+          <marc:controlfield tag="001">991011257427308651</marc:controlfield>
           <marc:controlfield tag="008">251217s1970    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007668-1</marc:subfield>
@@ -379,8 +379,8 @@
             <marc:subfield code="x">39002143395193</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839258408651</marc:subfield>
-            <marc:subfield code="8">221199288950008651</marc:subfield>
+            <marc:subfield code="0">991011257427308651</marc:subfield>
+            <marc:subfield code="8">221223102840008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -395,7 +395,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839258408651</recordIdentifier>
+      <recordIdentifier>991011257427308651</recordIdentifier>
       <recordPosition>7</recordPosition>
     </record>
     <record>
@@ -404,7 +404,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00433ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839258308651</marc:controlfield>
+          <marc:controlfield tag="001">991011257427208651</marc:controlfield>
           <marc:controlfield tag="008">251217s1969    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007670-1</marc:subfield>
@@ -437,8 +437,8 @@
             <marc:subfield code="x">39002143395201</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839258308651</marc:subfield>
-            <marc:subfield code="8">221199288920008651</marc:subfield>
+            <marc:subfield code="0">991011257427208651</marc:subfield>
+            <marc:subfield code="8">221223102810008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -453,7 +453,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839258308651</recordIdentifier>
+      <recordIdentifier>991011257427208651</recordIdentifier>
       <recordPosition>8</recordPosition>
     </record>
     <record>
@@ -462,7 +462,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00440ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839258208651</marc:controlfield>
+          <marc:controlfield tag="001">991011257427108651</marc:controlfield>
           <marc:controlfield tag="008">251217s1968    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007675-1</marc:subfield>
@@ -495,8 +495,8 @@
             <marc:subfield code="x">39002143395250</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839258208651</marc:subfield>
-            <marc:subfield code="8">221199288890008651</marc:subfield>
+            <marc:subfield code="0">991011257427108651</marc:subfield>
+            <marc:subfield code="8">221223102780008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -511,7 +511,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839258208651</recordIdentifier>
+      <recordIdentifier>991011257427108651</recordIdentifier>
       <recordPosition>9</recordPosition>
     </record>
     <record>
@@ -520,7 +520,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00436ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839258108651</marc:controlfield>
+          <marc:controlfield tag="001">991011257427008651</marc:controlfield>
           <marc:controlfield tag="008">251217s1969    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007680-1</marc:subfield>
@@ -553,8 +553,8 @@
             <marc:subfield code="x">39002143395284</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839258108651</marc:subfield>
-            <marc:subfield code="8">221199288860008651</marc:subfield>
+            <marc:subfield code="0">991011257427008651</marc:subfield>
+            <marc:subfield code="8">221223102750008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -569,7 +569,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839258108651</recordIdentifier>
+      <recordIdentifier>991011257427008651</recordIdentifier>
       <recordPosition>10</recordPosition>
     </record>
     <record>
@@ -578,7 +578,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00425ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839258008651</marc:controlfield>
+          <marc:controlfield tag="001">991011257426908651</marc:controlfield>
           <marc:controlfield tag="008">251217s1971    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007685-1</marc:subfield>
@@ -611,8 +611,8 @@
             <marc:subfield code="x">39002143395318</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839258008651</marc:subfield>
-            <marc:subfield code="8">221199288830008651</marc:subfield>
+            <marc:subfield code="0">991011257426908651</marc:subfield>
+            <marc:subfield code="8">221223102720008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -627,7 +627,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839258008651</recordIdentifier>
+      <recordIdentifier>991011257426908651</recordIdentifier>
       <recordPosition>11</recordPosition>
     </record>
     <record>
@@ -636,7 +636,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00420ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839257908651</marc:controlfield>
+          <marc:controlfield tag="001">991011257426808651</marc:controlfield>
           <marc:controlfield tag="008">251217s1973    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007687-1</marc:subfield>
@@ -669,8 +669,8 @@
             <marc:subfield code="x">39002143395334</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839257908651</marc:subfield>
-            <marc:subfield code="8">221199288800008651</marc:subfield>
+            <marc:subfield code="0">991011257426808651</marc:subfield>
+            <marc:subfield code="8">221223102690008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -685,7 +685,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839257908651</recordIdentifier>
+      <recordIdentifier>991011257426808651</recordIdentifier>
       <recordPosition>12</recordPosition>
     </record>
     <record>
@@ -694,7 +694,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00420ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839257808651</marc:controlfield>
+          <marc:controlfield tag="001">991011257426708651</marc:controlfield>
           <marc:controlfield tag="008">251217s1974    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007688-1</marc:subfield>
@@ -727,8 +727,8 @@
             <marc:subfield code="x">39002143395342</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839257808651</marc:subfield>
-            <marc:subfield code="8">221199288770008651</marc:subfield>
+            <marc:subfield code="0">991011257426708651</marc:subfield>
+            <marc:subfield code="8">221223102660008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -743,7 +743,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839257808651</recordIdentifier>
+      <recordIdentifier>991011257426708651</recordIdentifier>
       <recordPosition>13</recordPosition>
     </record>
     <record>
@@ -752,7 +752,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00440ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839257708651</marc:controlfield>
+          <marc:controlfield tag="001">991011257426608651</marc:controlfield>
           <marc:controlfield tag="008">251217s1961    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007690-1</marc:subfield>
@@ -785,8 +785,8 @@
             <marc:subfield code="x">39002143395367</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839257708651</marc:subfield>
-            <marc:subfield code="8">221199288740008651</marc:subfield>
+            <marc:subfield code="0">991011257426608651</marc:subfield>
+            <marc:subfield code="8">221223102630008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -801,7 +801,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839257708651</recordIdentifier>
+      <recordIdentifier>991011257426608651</recordIdentifier>
       <recordPosition>14</recordPosition>
     </record>
     <record>
@@ -810,7 +810,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00431ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839257608651</marc:controlfield>
+          <marc:controlfield tag="001">991011257426508651</marc:controlfield>
           <marc:controlfield tag="008">251217s1968    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007708-1</marc:subfield>
@@ -843,8 +843,8 @@
             <marc:subfield code="x">39002143395847</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839257608651</marc:subfield>
-            <marc:subfield code="8">221199288710008651</marc:subfield>
+            <marc:subfield code="0">991011257426508651</marc:subfield>
+            <marc:subfield code="8">221223102600008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -859,7 +859,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839257608651</recordIdentifier>
+      <recordIdentifier>991011257426508651</recordIdentifier>
       <recordPosition>15</recordPosition>
     </record>
     <record>
@@ -868,7 +868,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00428ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839257508651</marc:controlfield>
+          <marc:controlfield tag="001">991011257426408651</marc:controlfield>
           <marc:controlfield tag="008">251217s        xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007727-1</marc:subfield>
@@ -898,8 +898,8 @@
             <marc:subfield code="x">39002143396944</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839257508651</marc:subfield>
-            <marc:subfield code="8">221199288680008651</marc:subfield>
+            <marc:subfield code="0">991011257426408651</marc:subfield>
+            <marc:subfield code="8">221223102570008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -914,7 +914,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839257508651</recordIdentifier>
+      <recordIdentifier>991011257426408651</recordIdentifier>
       <recordPosition>16</recordPosition>
     </record>
     <record>
@@ -923,7 +923,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00353ngm a22001215a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839259108651</marc:controlfield>
+          <marc:controlfield tag="001">991011257428008651</marc:controlfield>
           <marc:controlfield tag="008">251217s        xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007647-1</marc:subfield>
@@ -949,8 +949,8 @@
             <marc:subfield code="x">39002143394832</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839259108651</marc:subfield>
-            <marc:subfield code="8">221199289160008651</marc:subfield>
+            <marc:subfield code="0">991011257428008651</marc:subfield>
+            <marc:subfield code="8">221223103050008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -965,7 +965,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839259108651</recordIdentifier>
+      <recordIdentifier>991011257428008651</recordIdentifier>
       <recordPosition>17</recordPosition>
     </record>
     <record>
@@ -974,7 +974,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00639ngm a22001935a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839257408651</marc:controlfield>
+          <marc:controlfield tag="001">991011257426308651</marc:controlfield>
           <marc:controlfield tag="008">251217s1957    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">001812-2</marc:subfield>
@@ -1031,8 +1031,8 @@
             <marc:subfield code="x">39002143396928</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839257408651</marc:subfield>
-            <marc:subfield code="8">221199288650008651</marc:subfield>
+            <marc:subfield code="0">991011257426308651</marc:subfield>
+            <marc:subfield code="8">221223102540008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -1047,7 +1047,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839257408651</recordIdentifier>
+      <recordIdentifier>991011257426308651</recordIdentifier>
       <recordPosition>18</recordPosition>
     </record>
     <record>
@@ -1056,7 +1056,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00579ngm a22001815a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839257308651</marc:controlfield>
+          <marc:controlfield tag="001">991011257426208651</marc:controlfield>
           <marc:controlfield tag="008">251217s2025    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007736-1</marc:subfield>
@@ -1107,8 +1107,8 @@
             <marc:subfield code="x">39002143396985</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839257308651</marc:subfield>
-            <marc:subfield code="8">221199288580008651</marc:subfield>
+            <marc:subfield code="0">991011257426208651</marc:subfield>
+            <marc:subfield code="8">221223102470008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -1123,7 +1123,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839257308651</recordIdentifier>
+      <recordIdentifier>991011257426208651</recordIdentifier>
       <recordPosition>19</recordPosition>
     </record>
     <record>
@@ -1132,7 +1132,7 @@
       <recordData>
         <marc:record>
           <marc:leader>00713ngm a22002055a 4500</marc:leader>
-          <marc:controlfield tag="001">991010839257208651</marc:controlfield>
+          <marc:controlfield tag="001">991011257426108651</marc:controlfield>
           <marc:controlfield tag="008">251217s1957    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
             <marc:subfield code="a">007733-1</marc:subfield>
@@ -1195,8 +1195,8 @@
             <marc:subfield code="x">39002143396571</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991010839257208651</marc:subfield>
-            <marc:subfield code="8">221199288520008651</marc:subfield>
+            <marc:subfield code="0">991011257426108651</marc:subfield>
+            <marc:subfield code="8">221223102410008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -1211,7 +1211,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991010839257208651</recordIdentifier>
+      <recordIdentifier>991011257426108651</recordIdentifier>
       <recordPosition>20</recordPosition>
     </record>
   </records></searchRetrieveResponse>
