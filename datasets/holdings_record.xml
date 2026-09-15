@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Total number of records across all SIP queries: 60 -->
-<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/" xmlns:marc="http://www.loc.gov/MARC21/slim"><version>1.2</version><numberOfRecords>60</numberOfRecords><records><record>
+<!-- Total number of records across all SIP queries: 11 -->
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/" xmlns:marc="http://www.loc.gov/MARC21/slim"><version>1.2</version><numberOfRecords>11</numberOfRecords><records><record>
       <recordSchema>marcxml</recordSchema>
       <recordPacking>xml</recordPacking>
       <recordData>
         <marc:record>
-          <marc:leader>00445ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378089008651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1976    xx |          000 m|und d</marc:controlfield>
+          <marc:leader>00414ngm a22001335a 4500</marc:leader>
+          <marc:controlfield tag="001">991011388657308651</marc:controlfield>
+          <marc:controlfield tag="008">260915s1973    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007828-1</marc:subfield>
+            <marc:subfield code="a">007829-1</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Doob Collection. "Cafe Ferrara vs. Dohertys," 1976]</marc:subfield>
+            <marc:subfield code="a">[Home Movies -- Carlucci 01. Construction, ca. 1973]</marc:subfield>
             <marc:subfield code="h">[motion picture].</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1976.</marc:subfield>
+            <marc:subfield code="c">1973.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">1 reel ;</marc:subfield>
@@ -28,19 +28,15 @@
           <marc:datafield ind1=" " ind2=" " tag="506">
             <marc:subfield code="a">Usage restricted.</marc:subfield>
           </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007828-1</marc:subfield>
+            <marc:subfield code="h">007829-1</marc:subfield>
             <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143397249</marc:subfield>
+            <marc:subfield code="x">39002143430164</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378089008651</marc:subfield>
-            <marc:subfield code="8">221254596040008651</marc:subfield>
+            <marc:subfield code="0">991011388657308651</marc:subfield>
+            <marc:subfield code="8">221256572180008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -55,7 +51,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991011378089008651</recordIdentifier>
+      <recordIdentifier>991011388657308651</recordIdentifier>
       <recordPosition>1</recordPosition>
     </record>
     <record>
@@ -63,39 +59,38 @@
       <recordPacking>xml</recordPacking>
       <recordData>
         <marc:record>
-          <marc:leader>00399ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378088908651</marc:controlfield>
-          <marc:controlfield tag="008">260817s        xx |          000 m|und d</marc:controlfield>
+          <marc:leader>00400ngm a22001335a 4500</marc:leader>
+          <marc:controlfield tag="001">991011388657208651</marc:controlfield>
+          <marc:controlfield tag="008">260915s1965    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007825-1</marc:subfield>
+            <marc:subfield code="a">007830-1</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Doob Collection. "Trudy Miller: Johnny Fedora"]</marc:subfield>
+            <marc:subfield code="a">[Home Movies -- Carlucci 02. Pool, ca. 1965]</marc:subfield>
             <marc:subfield code="h">[motion picture].</marc:subfield>
+          </marc:datafield>
+          <marc:datafield ind1=" " ind2="3" tag="264">
+            <marc:subfield code="c">1965.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
+            <marc:subfield code="c">8mm.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Magnetic Track.</marc:subfield>
+            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="506">
             <marc:subfield code="a">Usage restricted.</marc:subfield>
           </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007825-1</marc:subfield>
+            <marc:subfield code="h">007830-1</marc:subfield>
             <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360106</marc:subfield>
+            <marc:subfield code="x">39002143430156</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378088908651</marc:subfield>
-            <marc:subfield code="8">221254596010008651</marc:subfield>
+            <marc:subfield code="0">991011388657208651</marc:subfield>
+            <marc:subfield code="8">221256572150008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -110,7 +105,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991011378088908651</recordIdentifier>
+      <recordIdentifier>991011388657208651</recordIdentifier>
       <recordPosition>2</recordPosition>
     </record>
     <record>
@@ -118,42 +113,38 @@
       <recordPacking>xml</recordPacking>
       <recordData>
         <marc:record>
-          <marc:leader>00442ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378088808651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1978    xx |          000 m|und d</marc:controlfield>
+          <marc:leader>00411ngm a22001335a 4500</marc:leader>
+          <marc:controlfield tag="001">991011388657108651</marc:controlfield>
+          <marc:controlfield tag="008">260915s1956    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007819-1</marc:subfield>
+            <marc:subfield code="a">007850-1</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Doob Collection. Aircraft television, manufacturing, corpse, ca. 1978]</marc:subfield>
+            <marc:subfield code="a">[Home Movies -- Carlucci 05. "Honolulu T.H.," ca. 1956]</marc:subfield>
             <marc:subfield code="h">[motion picture].</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1978.</marc:subfield>
+            <marc:subfield code="c">1956.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
+            <marc:subfield code="c">8mm.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">BW MOS Print.</marc:subfield>
+            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="506">
             <marc:subfield code="a">Usage restricted.</marc:subfield>
           </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007819-1</marc:subfield>
+            <marc:subfield code="h">007850-1</marc:subfield>
             <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143399831</marc:subfield>
+            <marc:subfield code="x">39002143430255</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378088808651</marc:subfield>
-            <marc:subfield code="8">221254595980008651</marc:subfield>
+            <marc:subfield code="0">991011388657108651</marc:subfield>
+            <marc:subfield code="8">221256572120008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -168,7 +159,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991011378088808651</recordIdentifier>
+      <recordIdentifier>991011388657108651</recordIdentifier>
       <recordPosition>3</recordPosition>
     </record>
     <record>
@@ -176,52 +167,45 @@
       <recordPacking>xml</recordPacking>
       <recordData>
         <marc:record>
-          <marc:leader>00458ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378088708651</marc:controlfield>
-          <marc:controlfield tag="008">260817s        xx |          000 m|und d</marc:controlfield>
+          <marc:leader>00418ngm a22001335a 4500</marc:leader>
+          <marc:controlfield tag="001">991011388656908651</marc:controlfield>
+          <marc:controlfield tag="008">260915s1958    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007827-1</marc:subfield>
+            <marc:subfield code="a">007851-2</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Doob Collection. Assorted scenes]</marc:subfield>
+            <marc:subfield code="a">[Home Movies -- Carlucci 06. "100 Tyler St. Mom," ca. 1958]</marc:subfield>
             <marc:subfield code="h">[motion picture].</marc:subfield>
           </marc:datafield>
+          <marc:datafield ind1=" " ind2="3" tag="264">
+            <marc:subfield code="c">1958.</marc:subfield>
+          </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">2 reels ;</marc:subfield>
+            <marc:subfield code="a">1 reel ;</marc:subfield>
             <marc:subfield code="c">8mm.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color/BW MOS Orig. Rev. Pos.</marc:subfield>
+            <marc:subfield code="a">Color MOS Reversal Positive.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="506">
             <marc:subfield code="a">Usage restricted.</marc:subfield>
           </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007827-1</marc:subfield>
+            <marc:subfield code="h">007851-2</marc:subfield>
             <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360122</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007827-1</marc:subfield>
-            <marc:subfield code="p">reel 2</marc:subfield>
-            <marc:subfield code="x">39002143360130</marc:subfield>
+            <marc:subfield code="x">39002143430263</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378088708651</marc:subfield>
-            <marc:subfield code="8">221254595950008651</marc:subfield>
+            <marc:subfield code="0">991011388656908651</marc:subfield>
+            <marc:subfield code="8">221256572060008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
             <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">2</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
             <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 2</marc:subfield>
+            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
             <marc:subfield code="j">lsffsfilm</marc:subfield>
             <marc:subfield code="k">8</marc:subfield>
             <marc:subfield code="p">1</marc:subfield>
@@ -229,7 +213,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991011378088708651</recordIdentifier>
+      <recordIdentifier>991011388656908651</recordIdentifier>
       <recordPosition>4</recordPosition>
     </record>
     <record>
@@ -237,19 +221,22 @@
       <recordPacking>xml</recordPacking>
       <recordData>
         <marc:record>
-          <marc:leader>00403ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378088608651</marc:controlfield>
-          <marc:controlfield tag="008">260817s        xx |          000 m|und d</marc:controlfield>
+          <marc:leader>00410ngm a22001335a 4500</marc:leader>
+          <marc:controlfield tag="001">991011388657008651</marc:controlfield>
+          <marc:controlfield tag="008">260915s1958    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007822-1</marc:subfield>
+            <marc:subfield code="a">007851-1</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Doob collection. Automated Human Jukebox]</marc:subfield>
+            <marc:subfield code="a">[Home Movies -- Carlucci 06. "100 Tyler St. Mom," ca. 1958]</marc:subfield>
             <marc:subfield code="h">[motion picture].</marc:subfield>
+          </marc:datafield>
+          <marc:datafield ind1=" " ind2="3" tag="264">
+            <marc:subfield code="c">1958.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
+            <marc:subfield code="c">8mm.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="500">
             <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
@@ -257,19 +244,15 @@
           <marc:datafield ind1=" " ind2=" " tag="506">
             <marc:subfield code="a">Usage restricted.</marc:subfield>
           </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007822-1</marc:subfield>
+            <marc:subfield code="h">007851-1</marc:subfield>
             <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143399864</marc:subfield>
+            <marc:subfield code="x">39002143430271</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378088608651</marc:subfield>
-            <marc:subfield code="8">221254595910008651</marc:subfield>
+            <marc:subfield code="0">991011388657008651</marc:subfield>
+            <marc:subfield code="8">221256572090008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -284,7 +267,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991011378088608651</recordIdentifier>
+      <recordIdentifier>991011388657008651</recordIdentifier>
       <recordPosition>5</recordPosition>
     </record>
     <record>
@@ -292,132 +275,22 @@
       <recordPacking>xml</recordPacking>
       <recordData>
         <marc:record>
-          <marc:leader>00426ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378088508651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1967    xx |          000 m|und d</marc:controlfield>
+          <marc:leader>00411ngm a22001335a 4500</marc:leader>
+          <marc:controlfield tag="001">991011388656808651</marc:controlfield>
+          <marc:controlfield tag="008">260915s1977    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007818-1</marc:subfield>
+            <marc:subfield code="a">007912-1</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Doob Collection. Corpse footage, ca. 1967]</marc:subfield>
+            <marc:subfield code="a">[Home Movies -- Carlucci 07. "Tommy's Job's," ca. 1977]</marc:subfield>
             <marc:subfield code="h">[motion picture].</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1967.</marc:subfield>
+            <marc:subfield code="c">1977.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">BW MOS Reversal Positive.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007818-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143399823</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378088508651</marc:subfield>
-            <marc:subfield code="8">221254595880008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378088508651</recordIdentifier>
-      <recordPosition>6</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00395ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378088408651</marc:controlfield>
-          <marc:controlfield tag="008">260817s        xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007908-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Doob Collection. Miscellaneous]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">BW &amp; Color Composite Print.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007908-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360874</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378088408651</marc:subfield>
-            <marc:subfield code="8">221254595850008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378088408651</recordIdentifier>
-      <recordPosition>7</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00417ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378088308651</marc:controlfield>
-          <marc:controlfield tag="008">260817s        xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007813-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Doob Collection. News footage, woman dancing, ca. 1967]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
+            <marc:subfield code="c">8mm.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="500">
             <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
@@ -425,19 +298,15 @@
           <marc:datafield ind1=" " ind2=" " tag="506">
             <marc:subfield code="a">Usage restricted.</marc:subfield>
           </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007813-1</marc:subfield>
+            <marc:subfield code="h">007912-1</marc:subfield>
             <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143399773</marc:subfield>
+            <marc:subfield code="x">39002143430503</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378088308651</marc:subfield>
-            <marc:subfield code="8">221254595820008651</marc:subfield>
+            <marc:subfield code="0">991011388656808651</marc:subfield>
+            <marc:subfield code="8">221256572030008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -452,50 +321,46 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991011378088308651</recordIdentifier>
-      <recordPosition>8</recordPosition>
+      <recordIdentifier>991011388656808651</recordIdentifier>
+      <recordPosition>6</recordPosition>
     </record>
     <record>
       <recordSchema>marcxml</recordSchema>
       <recordPacking>xml</recordPacking>
       <recordData>
         <marc:record>
-          <marc:leader>00429ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378088208651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1967    xx |          000 m|und d</marc:controlfield>
+          <marc:leader>00410ngm a22001335a 4500</marc:leader>
+          <marc:controlfield tag="001">991011388656708651</marc:controlfield>
+          <marc:controlfield tag="008">260915s1965    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007826-1</marc:subfield>
+            <marc:subfield code="a">007913-1</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Doob Collection. Political, protest TV footage, ca. 1967]</marc:subfield>
+            <marc:subfield code="a">[Home Movies -- Carlucci 08. Work and graduation, ca. 1965]</marc:subfield>
             <marc:subfield code="h">[motion picture].</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1967.</marc:subfield>
+            <marc:subfield code="c">1965.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
+            <marc:subfield code="c">8mm.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">BW MOS Print.</marc:subfield>
+            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="506">
             <marc:subfield code="a">Usage restricted.</marc:subfield>
           </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007826-1</marc:subfield>
+            <marc:subfield code="h">007913-1</marc:subfield>
             <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360114</marc:subfield>
+            <marc:subfield code="x">39002143430511</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378088208651</marc:subfield>
-            <marc:subfield code="8">221254595790008651</marc:subfield>
+            <marc:subfield code="0">991011388656708651</marc:subfield>
+            <marc:subfield code="8">221256572000008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -510,80 +375,22 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991011378088208651</recordIdentifier>
-      <recordPosition>9</recordPosition>
+      <recordIdentifier>991011388656708651</recordIdentifier>
+      <recordPosition>7</recordPosition>
     </record>
     <record>
       <recordSchema>marcxml</recordSchema>
       <recordPacking>xml</recordPacking>
       <recordData>
         <marc:record>
-          <marc:leader>00423ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378088108651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1957    xx |          000 m|und d</marc:controlfield>
+          <marc:leader>00399ngm a22001455a 4500</marc:leader>
+          <marc:controlfield tag="001">991011388656608651</marc:controlfield>
+          <marc:controlfield tag="008">260915s1972    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007820-1</marc:subfield>
+            <marc:subfield code="a">007914-1</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Doob Collection. Train accident, ca. 1957]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1957.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">BW MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007820-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143399849</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378088108651</marc:subfield>
-            <marc:subfield code="8">221254595760008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378088108651</recordIdentifier>
-      <recordPosition>10</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00456ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378088008651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1972    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007817-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Doob Collection. Woman in tights, Empire State Building, Yale, ca. 1972]</marc:subfield>
+            <marc:subfield code="a">Louis Kahn, Architect</marc:subfield>
             <marc:subfield code="h">[motion picture].</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2="3" tag="264">
@@ -594,2234 +401,24 @@
             <marc:subfield code="c">16mm.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">BW MOS Reversal Positive.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007817-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143399815</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378088008651</marc:subfield>
-            <marc:subfield code="8">221254595730008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378088008651</recordIdentifier>
-      <recordPosition>11</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00400ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378087908651</marc:controlfield>
-          <marc:controlfield tag="008">260817s        xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007821-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Doob Collection. Woman walking, railroad]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">BW MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007821-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143399856</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378087908651</marc:subfield>
-            <marc:subfield code="8">221254595700008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378087908651</recordIdentifier>
-      <recordPosition>12</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00391ngm a22001215a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378087808651</marc:controlfield>
-          <marc:controlfield tag="008">260817s        xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007909-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Graff Collection. Musical compilation, ca. 1936-1954]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">BW &amp; Color Composite Print.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007909-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360882</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378087808651</marc:subfield>
-            <marc:subfield code="8">221254595670008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378087808651</recordIdentifier>
-      <recordPosition>13</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00412ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378087708651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1965    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007838-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 301. "J's 4th Birthday," ca. 1965]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1965.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007838-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360569</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378087708651</marc:subfield>
-            <marc:subfield code="8">221254595640008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378087708651</recordIdentifier>
-      <recordPosition>14</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00416ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378087608651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1973    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007839-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 302. Child's birthday, ca. 1973]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1973.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">Super 8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007839-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360577</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378087608651</marc:subfield>
-            <marc:subfield code="8">221254595610008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378087608651</recordIdentifier>
-      <recordPosition>15</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00419ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378087508651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1975    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007840-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 303. "S.N. Gupta, Diwali '75"]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1975.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">Super 8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007840-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360585</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378087508651</marc:subfield>
-            <marc:subfield code="8">221254595580008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378087508651</recordIdentifier>
-      <recordPosition>16</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00418ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378087408651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1969    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007841-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 304. "S.N. Gupta Misc.," ca. 1969]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1969.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">Super 8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007841-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360593</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378087408651</marc:subfield>
-            <marc:subfield code="8">221254595550008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378087408651</recordIdentifier>
-      <recordPosition>17</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00428ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378087308651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1976    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007842-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 305. "Ashok Gupta" family celebration, 1976]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1976.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">Super 8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007842-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360601</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378087308651</marc:subfield>
-            <marc:subfield code="8">221254595520008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378087308651</recordIdentifier>
-      <recordPosition>18</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00423ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378087208651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1975    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007843-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 306. "Ashok Gupta" gathering, ca. 1975]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1975.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">Super 8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007843-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360619</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378087208651</marc:subfield>
-            <marc:subfield code="8">221254595490008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378087208651</recordIdentifier>
-      <recordPosition>19</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00424ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378087108651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1976    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007844-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 307. "Jarpi 76 Sept. Ashok Kumar Gupta"]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1976.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">Super 8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007844-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360627</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378087108651</marc:subfield>
-            <marc:subfield code="8">221254595460008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378087108651</recordIdentifier>
-      <recordPosition>20</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00421ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378087008651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1976    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007845-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 308. "S.N. Gupta, Viccy Birthday 76"]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1976.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">Super 8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007845-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360635</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378087008651</marc:subfield>
-            <marc:subfield code="8">221254595430008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378087008651</recordIdentifier>
-      <recordPosition>21</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00426ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378086908651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1969    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007846-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 309. "Miscellaneous S.N. Gupta," ca. 1969]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1969.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">Super 8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007846-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360643</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378086908651</marc:subfield>
-            <marc:subfield code="8">221254595400008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378086908651</recordIdentifier>
-      <recordPosition>22</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00430ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378086708651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1969    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007848-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 311. "Misc Holi Broken, S.N. Gupta," ca. 1969]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1969.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">Super 8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007848-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360668</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378086708651</marc:subfield>
-            <marc:subfield code="8">221254595340008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378086708651</recordIdentifier>
-      <recordPosition>23</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00419ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378086608651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1973    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007849-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 312. "Diwali '73, S.N. Gupta"]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1973.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">Super 8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007849-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360676</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378086608651</marc:subfield>
-            <marc:subfield code="8">221254595310008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378086608651</recordIdentifier>
-      <recordPosition>24</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00413ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378086508651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1963    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007865-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 326. "Ceylon Tea Estate," ca. 1963]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1963.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007865-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360288</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378086508651</marc:subfield>
-            <marc:subfield code="8">221254595280008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378086508651</recordIdentifier>
-      <recordPosition>25</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00410ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378086408651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1969    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007882-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 343. "Copenhagen III," ca. 1969]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1969.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007882-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360742</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378086408651</marc:subfield>
-            <marc:subfield code="8">221254595250008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378086408651</recordIdentifier>
-      <recordPosition>26</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00427ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378086308651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1964    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007883-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 344. Paul Raghavan, "Honolulu gastroscopy," 1964]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1964.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007883-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360734</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378086308651</marc:subfield>
-            <marc:subfield code="8">221254595220008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378086308651</recordIdentifier>
-      <recordPosition>27</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00412ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378086208651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1977    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007884-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 345. "Ceylon Shrivatsa," ca. 1977]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1977.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007884-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360726</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378086208651</marc:subfield>
-            <marc:subfield code="8">221254595190008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378086208651</recordIdentifier>
-      <recordPosition>28</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00417ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378086108651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1979    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007885-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 346. "Passing out parade," ca. 1979]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1979.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Reversal Positive.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007885-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360718</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378086108651</marc:subfield>
-            <marc:subfield code="8">221254595160008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378086108651</recordIdentifier>
-      <recordPosition>29</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00408ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378086008651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1965    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007886-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 347. Gastroscopy II, ca. 1965]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1965.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007886-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360700</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378086008651</marc:subfield>
-            <marc:subfield code="8">221254595130008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378086008651</recordIdentifier>
-      <recordPosition>30</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00416ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378085908651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1979    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007887-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 348. "Gastroscopy," patient, ca. 1979]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1979.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007887-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360692</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378085908651</marc:subfield>
-            <marc:subfield code="8">221254595100008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378085908651</recordIdentifier>
-      <recordPosition>31</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00414ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378085808651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1964    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007888-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 349. "Srivatsa and Ahila," ca. 1964]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1964.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007888-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360684</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378085808651</marc:subfield>
-            <marc:subfield code="8">221254595070008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378085808651</recordIdentifier>
-      <recordPosition>32</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00404ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378085708651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1963    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007889-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 350. "Honolulu," ca. 1963]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1963.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007889-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360759</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378085708651</marc:subfield>
-            <marc:subfield code="8">221254595040008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378085708651</recordIdentifier>
-      <recordPosition>33</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00385ngm a22001215a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378085608651</marc:controlfield>
-          <marc:controlfield tag="008">260817s        xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007890-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 351. Paul Raghavan, "Geneva"]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007890-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360775</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378085608651</marc:subfield>
-            <marc:subfield code="8">221254595010008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378085608651</recordIdentifier>
-      <recordPosition>34</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00419ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378085508651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1969    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007891-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 352. K.G. Sarma, women walking, ca. 1969]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1969.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007891-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360783</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378085508651</marc:subfield>
-            <marc:subfield code="8">221254594980008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378085508651</recordIdentifier>
-      <recordPosition>35</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00404ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378085408651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1977    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007892-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 353. "Srivatsa," ca. 1977]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1977.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007892-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360791</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378085408651</marc:subfield>
-            <marc:subfield code="8">221254594950008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378085408651</recordIdentifier>
-      <recordPosition>36</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00424ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378085308651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1974    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007893-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 354. K.G. Sarma, crowds, palm trees, ca. 1974]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1974.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007893-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360809</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378085308651</marc:subfield>
-            <marc:subfield code="8">221254594920008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378085308651</recordIdentifier>
-      <recordPosition>37</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00402ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378085208651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1963    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007894-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 355. "Boston," ca. 1963]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1963.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007894-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360817</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378085208651</marc:subfield>
-            <marc:subfield code="8">221254594890008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378085208651</recordIdentifier>
-      <recordPosition>38</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00417ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378085108651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1963    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007895-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 356. Paul Raghavan, "Bombay," ca. 1963]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1963.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007895-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360825</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378085108651</marc:subfield>
-            <marc:subfield code="8">221254594860008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378085108651</recordIdentifier>
-      <recordPosition>39</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00407ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378085008651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1969    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007896-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 357. "Gastroscopy," ca. 1969]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1969.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007896-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360833</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378085008651</marc:subfield>
-            <marc:subfield code="8">221254594830008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378085008651</recordIdentifier>
-      <recordPosition>40</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00434ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378084908651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1974    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007897-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 358. Paul Raghavan, "Delhi Agricultural Fair," ca. 1974]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1974.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007897-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360841</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378084908651</marc:subfield>
-            <marc:subfield code="8">221254594800008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378084908651</recordIdentifier>
-      <recordPosition>41</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00419ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378084808651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1977    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007898-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 359. "Laxmi's Marriage in May," ca. 1977]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1977.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007898-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360858</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378084808651</marc:subfield>
-            <marc:subfield code="8">221254594770008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378084808651</recordIdentifier>
-      <recordPosition>42</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00420ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378084708651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1981    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007899-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 360. Paul Raghavan, Switzerland, ca. 1981]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1981.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007899-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360866</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378084708651</marc:subfield>
-            <marc:subfield code="8">221254594740008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378084708651</recordIdentifier>
-      <recordPosition>43</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00407ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378084608651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1961    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007900-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 361. "Japan Kyoto," ca. 1961]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1961.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007900-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360353</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378084608651</marc:subfield>
-            <marc:subfield code="8">221254594710008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378084608651</recordIdentifier>
-      <recordPosition>44</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00413ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378084508651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1962    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007901-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 362. "World Congress Munich, 1962"]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1962.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007901-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360346</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378084508651</marc:subfield>
-            <marc:subfield code="8">221254594680008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378084508651</recordIdentifier>
-      <recordPosition>45</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00425ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378084408651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1965    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007902-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 363. Paul Raghavan, children playing, ca. 1965]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1965.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007902-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360452</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378084408651</marc:subfield>
-            <marc:subfield code="8">221254594650008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378084408651</recordIdentifier>
-      <recordPosition>46</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00399ngm a22001215a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378084308651</marc:controlfield>
-          <marc:controlfield tag="008">260817s        xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007903-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 364. Paul Raghavan, "Aparna and Ganapathy"]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007903-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360460</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378084308651</marc:subfield>
-            <marc:subfield code="8">221254594620008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378084308651</recordIdentifier>
-      <recordPosition>47</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00411ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378084208651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1965    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007904-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 365. "Ajanta and Holi," ca. 1965]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1965.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007904-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360478</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378084208651</marc:subfield>
-            <marc:subfield code="8">221254594590008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378084208651</recordIdentifier>
-      <recordPosition>48</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00435ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378086808651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1969    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007847-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">{Home Movies -- Avikunthak 310. "Ashok Gupta," bike on balcony, ca. 1969]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1969.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">Super 8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007847-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360650</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378086808651</marc:subfield>
-            <marc:subfield code="8">221254595370008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378086808651</recordIdentifier>
-      <recordPosition>49</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00946ngm a22002535a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378089108651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1974    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007907-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">Castle of Sand</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1974.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">10 reels ;</marc:subfield>
-            <marc:subfield code="c">35mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
             <marc:subfield code="a">Color Composite Print.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="506">
             <marc:subfield code="a">Usage restricted.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Nomura, Yoshitarō</marc:subfield>
+            <marc:subfield code="a">Namuth, Hans</marc:subfield>
             <marc:subfield code="9">no_linkage</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007907-1</marc:subfield>
+            <marc:subfield code="h">007914-1</marc:subfield>
             <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143430362</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007907-1</marc:subfield>
-            <marc:subfield code="p">reel 2</marc:subfield>
-            <marc:subfield code="x">39002143430370</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007907-1</marc:subfield>
-            <marc:subfield code="p">reel 3</marc:subfield>
-            <marc:subfield code="x">39002143430388</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007907-1</marc:subfield>
-            <marc:subfield code="p">reel 4</marc:subfield>
-            <marc:subfield code="x">39002143430396</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007907-1</marc:subfield>
-            <marc:subfield code="p">reel 5</marc:subfield>
-            <marc:subfield code="x">39002143430404</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007907-1</marc:subfield>
-            <marc:subfield code="p">reel 6</marc:subfield>
-            <marc:subfield code="x">39002143430412</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007907-1</marc:subfield>
-            <marc:subfield code="p">reel 7</marc:subfield>
-            <marc:subfield code="x">39002143430420</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007907-1</marc:subfield>
-            <marc:subfield code="p">reel 8</marc:subfield>
-            <marc:subfield code="x">39002143430438</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007907-1</marc:subfield>
-            <marc:subfield code="p">reel 9</marc:subfield>
-            <marc:subfield code="x">39002143430446</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007907-1</marc:subfield>
-            <marc:subfield code="p">reel 10</marc:subfield>
-            <marc:subfield code="x">39002143430461</marc:subfield>
+            <marc:subfield code="x">39002143430529</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378089108651</marc:subfield>
-            <marc:subfield code="8">221254596160008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">10</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 10</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378089108651</recordIdentifier>
-      <recordPosition>50</recordPosition>
-    </record>
-  <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00401ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378204608651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1962    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007906-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">[Home Movies -- Avikunthak 366. "Hawaii,"ca. 1962]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1962.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">8mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007906-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360767</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378204608651</marc:subfield>
-            <marc:subfield code="8">221254620250008651</marc:subfield>
+            <marc:subfield code="0">991011388656608651</marc:subfield>
+            <marc:subfield code="8">221256571970008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -2836,364 +433,74 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991011378204608651</recordIdentifier>
-      <recordPosition>1</recordPosition>
+      <recordIdentifier>991011388656608651</recordIdentifier>
+      <recordPosition>8</recordPosition>
     </record>
     <record>
       <recordSchema>marcxml</recordSchema>
       <recordPacking>xml</recordPacking>
       <recordData>
         <marc:record>
-          <marc:leader>00392ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378204208651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1970    xx |          000 m|und d</marc:controlfield>
+          <marc:leader>00646ngm a22001935a 4500</marc:leader>
+          <marc:controlfield tag="001">991011388656508651</marc:controlfield>
+          <marc:controlfield tag="008">260915s1971    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">003640-8</marc:subfield>
+            <marc:subfield code="a">007916-1</marc:subfield>
           </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">I'm a Man</marc:subfield>
+          <marc:datafield ind1="0" ind2="4" tag="245">
+            <marc:subfield code="a">The Murder of Fred Hampton</marc:subfield>
             <marc:subfield code="h">[motion picture].</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1970.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color Composite Print.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Rosen, Peter</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">003640-8</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143430495</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378204208651</marc:subfield>
-            <marc:subfield code="8">221254620130008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378204208651</recordIdentifier>
-      <recordPosition>2</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00383ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378204308651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1970    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">003640-7</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">I'm a Man</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1970.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS IP.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Rosen, Peter</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">003640-7</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143430487</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378204308651</marc:subfield>
-            <marc:subfield code="8">221254620160008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378204308651</recordIdentifier>
-      <recordPosition>3</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00393ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378204408651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1970    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">003640-4</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">I'm a Man</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1970.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Optical Track Negative.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Rosen, Peter</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">003640-4</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143430354</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378204408651</marc:subfield>
-            <marc:subfield code="8">221254620190008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378204408651</recordIdentifier>
-      <recordPosition>4</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00394ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378204508651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1970    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">003640-3</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">I'm a Man</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1970.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Internegative.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Rosen, Peter</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">003640-3</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143430479</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378204508651</marc:subfield>
-            <marc:subfield code="8">221254620220008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378204508651</recordIdentifier>
-      <recordPosition>5</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00413ngm a22001455a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378204008651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1973    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">005481-12</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">London Songs [ -- PRODUCTION ELEMENTS]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1973.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Magnetic Track.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">005481-12</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360908</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378204008651</marc:subfield>
-            <marc:subfield code="8">221254620030008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378204008651</recordIdentifier>
-      <recordPosition>6</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00671ngm a22001935a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378204108651</marc:controlfield>
-          <marc:controlfield tag="008">260817s1973    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">005481-11</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">London Songs [ -- PRODUCTION ELEMENTS]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">1973.</marc:subfield>
+            <marc:subfield code="c">1971.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">5 reels ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
+            <marc:subfield code="c">35mm.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color MOS Reversal Positive.</marc:subfield>
+            <marc:subfield code="a">BW Composite Print.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="506">
             <marc:subfield code="a">Usage restricted.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
+            <marc:subfield code="a">Alk, Howard</marc:subfield>
             <marc:subfield code="9">no_linkage</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">005481-11</marc:subfield>
+            <marc:subfield code="h">007916-1</marc:subfield>
             <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143360916</marc:subfield>
+            <marc:subfield code="x">39002143430537</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">005481-11</marc:subfield>
+            <marc:subfield code="h">007916-1</marc:subfield>
             <marc:subfield code="p">reel 2</marc:subfield>
-            <marc:subfield code="x">39002143360924</marc:subfield>
+            <marc:subfield code="x">39002143430545</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">005481-11</marc:subfield>
+            <marc:subfield code="h">007916-1</marc:subfield>
             <marc:subfield code="p">reel 3</marc:subfield>
-            <marc:subfield code="x">39002143360890</marc:subfield>
+            <marc:subfield code="x">39002143430552</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">005481-11</marc:subfield>
+            <marc:subfield code="h">007916-1</marc:subfield>
             <marc:subfield code="p">reel 4</marc:subfield>
-            <marc:subfield code="x">39002143360932</marc:subfield>
+            <marc:subfield code="x">39002143430560</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">005481-11</marc:subfield>
+            <marc:subfield code="h">007916-1</marc:subfield>
             <marc:subfield code="p">reel 5</marc:subfield>
-            <marc:subfield code="x">39002143360940</marc:subfield>
+            <marc:subfield code="x">39002143430578</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378204108651</marc:subfield>
-            <marc:subfield code="8">221254620100008651</marc:subfield>
+            <marc:subfield code="0">991011388656508651</marc:subfield>
+            <marc:subfield code="8">221256571940008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -3208,150 +515,7 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991011378204108651</recordIdentifier>
-      <recordPosition>7</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00705ngm a22002055a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378203908651</marc:controlfield>
-          <marc:controlfield tag="008">260817s2007    xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007631-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">No Country for Old Men</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">2007.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">6 reels ;</marc:subfield>
-            <marc:subfield code="c">35mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color Composite Print.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Coen, Ethan</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007631-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143399179</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007631-1</marc:subfield>
-            <marc:subfield code="p">reel 2</marc:subfield>
-            <marc:subfield code="x">39002143399161</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007631-1</marc:subfield>
-            <marc:subfield code="p">reel 3</marc:subfield>
-            <marc:subfield code="x">39002143399153</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007631-1</marc:subfield>
-            <marc:subfield code="p">reel 4</marc:subfield>
-            <marc:subfield code="x">39002143399146</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007631-1</marc:subfield>
-            <marc:subfield code="p">reel 5</marc:subfield>
-            <marc:subfield code="x">39002143399138</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007631-1</marc:subfield>
-            <marc:subfield code="p">reel 6</marc:subfield>
-            <marc:subfield code="x">39002143399120</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378203908651</marc:subfield>
-            <marc:subfield code="8">221254620000008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">6</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 6</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378203908651</recordIdentifier>
-      <recordPosition>8</recordPosition>
-    </record>
-    <record>
-      <recordSchema>marcxml</recordSchema>
-      <recordPacking>xml</recordPacking>
-      <recordData>
-        <marc:record>
-          <marc:leader>00398ngm a22001335a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378203808651</marc:controlfield>
-          <marc:controlfield tag="008">260817s        xx |          000 m|und d</marc:controlfield>
-          <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007812-1</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">Plastic Saints [ -- PRODUCTION ELEMENTS]</marc:subfield>
-            <marc:subfield code="h">[motion picture].</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="300">
-            <marc:subfield code="a">1 reel ;</marc:subfield>
-            <marc:subfield code="c">16mm.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">BW MOS Orig. Rev. Pos.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="506">
-            <marc:subfield code="a">Usage restricted.</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Doob, Nicholas</marc:subfield>
-            <marc:subfield code="9">no_linkage</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1="8" ind2="1" tag="852">
-            <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007812-1</marc:subfield>
-            <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002143399765</marc:subfield>
-          </marc:datafield>
-          <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378203808651</marc:subfield>
-            <marc:subfield code="8">221254619920008651</marc:subfield>
-            <marc:subfield code="a">01YALE_INST</marc:subfield>
-            <marc:subfield code="b">lsf</marc:subfield>
-            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
-            <marc:subfield code="e">available</marc:subfield>
-            <marc:subfield code="f">1</marc:subfield>
-            <marc:subfield code="g">0</marc:subfield>
-            <marc:subfield code="v">from:reel 1 until:reel 1</marc:subfield>
-            <marc:subfield code="j">lsffsfilm</marc:subfield>
-            <marc:subfield code="k">8</marc:subfield>
-            <marc:subfield code="p">1</marc:subfield>
-            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
-          </marc:datafield>
-        </marc:record>
-      </recordData>
-      <recordIdentifier>991011378203808651</recordIdentifier>
+      <recordIdentifier>991011388656508651</recordIdentifier>
       <recordPosition>9</recordPosition>
     </record>
     <record>
@@ -3359,78 +523,78 @@
       <recordPacking>xml</recordPacking>
       <recordData>
         <marc:record>
-          <marc:leader>00756ngm a22002175a 4500</marc:leader>
-          <marc:controlfield tag="001">991011378203708651</marc:controlfield>
-          <marc:controlfield tag="008">260817s2010    xx |          000 m|und d</marc:controlfield>
+          <marc:leader>00764ngm a22002175a 4500</marc:leader>
+          <marc:controlfield tag="001">991011388656408651</marc:controlfield>
+          <marc:controlfield tag="008">260915s1980    xx |          000 m|und d</marc:controlfield>
           <marc:datafield ind1=" " ind2=" " tag="099">
-            <marc:subfield code="a">007905-1</marc:subfield>
+            <marc:subfield code="a">007734-1</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="0" ind2="0" tag="245">
-            <marc:subfield code="a">When We Leave</marc:subfield>
+            <marc:subfield code="a">Raging Bull</marc:subfield>
             <marc:subfield code="h">[motion picture].</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2="3" tag="264">
-            <marc:subfield code="c">2010.</marc:subfield>
+            <marc:subfield code="c">1980.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">7 reels ;</marc:subfield>
             <marc:subfield code="c">35mm.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="500">
-            <marc:subfield code="a">Color Composite Print.</marc:subfield>
+            <marc:subfield code="a">BW &amp; Color Composite Print.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="506">
             <marc:subfield code="a">Usage restricted.</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="1" ind2=" " tag="700">
-            <marc:subfield code="a">Aladag, Feo</marc:subfield>
+            <marc:subfield code="a">Scorsese, Martin</marc:subfield>
             <marc:subfield code="9">no_linkage</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007905-1</marc:subfield>
+            <marc:subfield code="h">007734-1</marc:subfield>
             <marc:subfield code="p">reel 1</marc:subfield>
-            <marc:subfield code="x">39002141430289</marc:subfield>
+            <marc:subfield code="x">39002143396647</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007905-1</marc:subfield>
+            <marc:subfield code="h">007734-1</marc:subfield>
             <marc:subfield code="p">reel 2</marc:subfield>
-            <marc:subfield code="x">39002141430297</marc:subfield>
+            <marc:subfield code="x">39002143396654</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007905-1</marc:subfield>
+            <marc:subfield code="h">007734-1</marc:subfield>
             <marc:subfield code="p">reel 3</marc:subfield>
-            <marc:subfield code="x">39002141430305</marc:subfield>
+            <marc:subfield code="x">39002143396662</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007905-1</marc:subfield>
+            <marc:subfield code="h">007734-1</marc:subfield>
             <marc:subfield code="p">reel 4</marc:subfield>
-            <marc:subfield code="x">39002141430313</marc:subfield>
+            <marc:subfield code="x">39002143396670</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007905-1</marc:subfield>
+            <marc:subfield code="h">007734-1</marc:subfield>
             <marc:subfield code="p">reel 5</marc:subfield>
-            <marc:subfield code="x">39002141430321</marc:subfield>
+            <marc:subfield code="x">39002143396688</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007905-1</marc:subfield>
+            <marc:subfield code="h">007734-1</marc:subfield>
             <marc:subfield code="p">reel 6</marc:subfield>
-            <marc:subfield code="x">39002141430339</marc:subfield>
+            <marc:subfield code="x">39002143396696</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1="8" ind2="1" tag="852">
             <marc:subfield code="b">lsffsfilm</marc:subfield>
-            <marc:subfield code="h">007905-1</marc:subfield>
+            <marc:subfield code="h">007734-1</marc:subfield>
             <marc:subfield code="p">reel 7</marc:subfield>
-            <marc:subfield code="x">39002141430347</marc:subfield>
+            <marc:subfield code="x">39002143396704</marc:subfield>
           </marc:datafield>
           <marc:datafield ind1=" " ind2=" " tag="AVA">
-            <marc:subfield code="0">991011378203708651</marc:subfield>
-            <marc:subfield code="8">221254619890008651</marc:subfield>
+            <marc:subfield code="0">991011388656408651</marc:subfield>
+            <marc:subfield code="8">221256571870008651</marc:subfield>
             <marc:subfield code="a">01YALE_INST</marc:subfield>
             <marc:subfield code="b">lsf</marc:subfield>
             <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
@@ -3445,7 +609,71 @@
           </marc:datafield>
         </marc:record>
       </recordData>
-      <recordIdentifier>991011378203708651</recordIdentifier>
+      <recordIdentifier>991011388656408651</recordIdentifier>
       <recordPosition>10</recordPosition>
+    </record>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <marc:record>
+          <marc:leader>00475ngm a22001575a 4500</marc:leader>
+          <marc:controlfield tag="001">991011388656308651</marc:controlfield>
+          <marc:controlfield tag="008">260915s1996    xx |          000 m|und d</marc:controlfield>
+          <marc:datafield ind1=" " ind2=" " tag="099">
+            <marc:subfield code="a">007915-1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield ind1="0" ind2="0" tag="245">
+            <marc:subfield code="a">Short Change [ -- OUTTAKES]</marc:subfield>
+            <marc:subfield code="h">[motion picture].</marc:subfield>
+          </marc:datafield>
+          <marc:datafield ind1=" " ind2="3" tag="264">
+            <marc:subfield code="c">1996.</marc:subfield>
+          </marc:datafield>
+          <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">2 reels ;</marc:subfield>
+            <marc:subfield code="c">16mm.</marc:subfield>
+          </marc:datafield>
+          <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Color MOS Orig. Pict. Neg.</marc:subfield>
+          </marc:datafield>
+          <marc:datafield ind1=" " ind2=" " tag="506">
+            <marc:subfield code="a">Usage restricted.</marc:subfield>
+          </marc:datafield>
+          <marc:datafield ind1="1" ind2=" " tag="700">
+            <marc:subfield code="a">Andrews, Jon</marc:subfield>
+            <marc:subfield code="9">no_linkage</marc:subfield>
+          </marc:datafield>
+          <marc:datafield ind1="8" ind2="1" tag="852">
+            <marc:subfield code="b">lsffsfilm</marc:subfield>
+            <marc:subfield code="h">007915-1</marc:subfield>
+            <marc:subfield code="p">reel 1</marc:subfield>
+            <marc:subfield code="x">39002143430957</marc:subfield>
+          </marc:datafield>
+          <marc:datafield ind1="8" ind2="1" tag="852">
+            <marc:subfield code="b">lsffsfilm</marc:subfield>
+            <marc:subfield code="h">007915-1</marc:subfield>
+            <marc:subfield code="p">reel 2</marc:subfield>
+            <marc:subfield code="x">39002143430965</marc:subfield>
+          </marc:datafield>
+          <marc:datafield ind1=" " ind2=" " tag="AVA">
+            <marc:subfield code="0">991011388656308651</marc:subfield>
+            <marc:subfield code="8">221256571780008651</marc:subfield>
+            <marc:subfield code="a">01YALE_INST</marc:subfield>
+            <marc:subfield code="b">lsf</marc:subfield>
+            <marc:subfield code="c">Remote (LSF) - Film Archive - Film</marc:subfield>
+            <marc:subfield code="e">available</marc:subfield>
+            <marc:subfield code="f">2</marc:subfield>
+            <marc:subfield code="g">0</marc:subfield>
+            <marc:subfield code="v">from:reel 1 until:reel 2</marc:subfield>
+            <marc:subfield code="j">lsffsfilm</marc:subfield>
+            <marc:subfield code="k">8</marc:subfield>
+            <marc:subfield code="p">1</marc:subfield>
+            <marc:subfield code="q">Library Shelving Facility</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </recordData>
+      <recordIdentifier>991011388656308651</recordIdentifier>
+      <recordPosition>11</recordPosition>
     </record>
   </records></searchRetrieveResponse>
